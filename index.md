@@ -1,3 +1,3 @@
 # Welcome to my blog
-
+My Name is Taha, And i am an undergraduate student studying computer science.
 I'm glad you are here. I plan to talk about ...
